@@ -22,4 +22,6 @@ The last task was to find out the employees who are eligible for the mentorship 
 
 # Results #
 
+Based on the images above you can see that most of the employees retiring have attained senior positions in the company. The HR department can analyse what did the company do or the employee do to remain in service for so long and be loyal to the company and still achieve life goals. Also huge portion of the task force is about to retire and the HR department needs to start its recruitment drives to fill in the positions either internally or externally. One thing the HR department needs to keep in mind the technological advancement and the level of tech-saviness of the current retiring force vis-a-vis the new replacing task force.
+
 
